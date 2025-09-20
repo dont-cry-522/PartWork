@@ -54,5 +54,5 @@ PartWork
 │   ├── start-frontend.sh    # 一键启动前端服务
 │   └── init-db.sql          # 数据库初始化脚本（后端首次运行用）
 │
-└── .github/ 
-# 协作配置（组长负责）
+└── .github/ # 协作配置（组长负责）
+
